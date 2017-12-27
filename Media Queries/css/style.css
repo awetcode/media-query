@@ -1,0 +1,24 @@
+/*base rule*/
+body{
+	margin: 0;
+	padding: 20px;
+	color: #000;
+	background: #fff;
+	font-size: 100%;
+	font-family: Helvetica "Neue", Helvetica, Arial, Geneva, Sans-Serif; Geneva, Sans-Serif;
+line-height: 1.4;
+}
+
+h1{
+	margin: 0 0 .5em;
+	line-height: 1;
+}
+
+p{
+	margin-top: 0:;
+}
+
+.container{
+	max-width: 28em;
+	margin: 0 auto;
+}
